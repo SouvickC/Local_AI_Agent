@@ -1,0 +1,10 @@
+# Ignore secret key file
+.webui_secret_key
+
+# Ignore virtual environment folder
+venv/
+
+# Ignore other sensitive or build files
+*.log
+__pycache__/
+
