@@ -6,3 +6,5 @@ langchain-groq
 IPython
 langchain_tavily
 langchain-community
+langchain_openai
+streamlit

@@ -1,2 +1,9 @@
 # Local_AI_Agent
-AI agent
+
+
+This Repo is covering below content
+- Basic Chatbot with Groq API
+- Tool Calling - Websearch
+- ReAct Architecture implementation
+- Memory and Streaming added from LangGraph
+
