@@ -2,8 +2,8 @@
 
 
 This Repo is covering below content
-- Basic Chatbot with Groq API
-- Tool Calling - Websearch
-- ReAct Architecture implementation
+- Chatbot with Groq API with ability to websearch
+- Tool Calling
+- ReAct(reasoning and acting) Agent Architecture implementation 
 - Memory and Streaming added from LangGraph
 
