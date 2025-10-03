@@ -8,3 +8,6 @@ langchain_tavily
 langchain-community
 langchain_openai
 streamlit
+langchain-mcp-adapters
+mcp
+torch
