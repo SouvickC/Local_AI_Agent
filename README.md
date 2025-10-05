@@ -2,7 +2,7 @@
 # ⚡ Groq-Powered Multi-Agent Architecture
 
 &nbsp;
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT), [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/) [![Architecture](https://img.shields.io/badge/Architecture-ReAct%20%7C%20Multi--Agent-orange.svg)](), [![Orchestrator](https://img.shields.io/badge/Orchestrator-LangGraph-red.svg)](), [![Inference Engine](https://img.shields.io/badge/Inference-Groq-579c09.svg)]()
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/) [![Architecture](https://img.shields.io/badge/Architecture-ReAct%20%7C%20Multi--Agent-orange.svg)]() [![Orchestrator](https://img.shields.io/badge/Orchestrator-LangGraph-red.svg)]() [![Inference Engine](https://img.shields.io/badge/Inference-Groq-579c09.svg)]()
 
 
 
@@ -36,6 +36,6 @@ A comprehensive repository for building and deploying advanced AI agent systems,
     ```bash
     uv add -r requirement.txt
     ```
-3.  **Set Environment Variables:** Add your API keys (e.g., `GROQ_API_KEY`) to a `.env` file.
+3.  **Set Environment Variables:** Add API keys (e.g., `GROQ_API_KEY`) to a `.env` file.
 
 ---
