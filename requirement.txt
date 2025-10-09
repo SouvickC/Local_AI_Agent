@@ -11,3 +11,7 @@ streamlit
 langchain-mcp-adapters
 mcp
 torch
+transformers
+pymupdf
+scikit-learn
+langchain_core
