@@ -16,3 +16,4 @@ pymupdf
 scikit-learn
 langchain_core
 hf_xet
+faiss-cpu
