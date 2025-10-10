@@ -17,3 +17,12 @@ scikit-learn
 langchain_core
 hf_xet
 faiss-cpu
+sentence_transformers
+langchain-groq
+langchain-openai
+unstructured[all-docs]
+pillow
+lxml
+chromadb
+tiktoken
+poppler-utils
