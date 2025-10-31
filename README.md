@@ -4,6 +4,7 @@
 &nbsp;
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/) [![Architecture](https://img.shields.io/badge/Architecture-ReAct%20%7C%20Multi--Agent-orange.svg)]() [![Orchestrator](https://img.shields.io/badge/Orchestrator-LangGraph-red.svg)]() [![Inference Engine](https://img.shields.io/badge/Inference-Groq-579c09.svg)]()
 
+![alt text](image.png)
 
 
 **The platform for reliable, high-speed AI agents.**
@@ -22,6 +23,8 @@ A comprehensive repository for building and deploying advanced AI agent systems,
 * **Memory and Streaming (LangGraph):** Leverages *LangGraph* for managing complex state transitions and maintaining long-term conversational memory, with output streaming for enhanced user experience.
 * **MCP (Multi-Agent Communication Protocol):** Includes both *MCP server* creation and *MCP client* development to enable structured, reliable communication between specialized agents.
 * **Multi-Agent AI Chatbot:** The final system where specialized agents cooperate and delegate tasks to solve complex, multi-step queries.
+
+
 
 ---
 

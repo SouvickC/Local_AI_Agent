@@ -60,8 +60,7 @@ SYSTEM_PROMPT = (
 )
 
 # --- LLM INITIALIZATION (GROQ) ---
-# FIX: Changed model from decommissioned 'mixtral-8x7b-32768' 
-# to 'mixtral-8x7b-instruct-v0.1', a currently supported and capable tool-use model.
+
 llm = ChatGroq(model="openai/gpt-oss-20b", temperature=0)
 model_with_tools = llm.with_config({"system_instruction": SYSTEM_PROMPT}).bind_tools(tools)
 # ---------------------------------
